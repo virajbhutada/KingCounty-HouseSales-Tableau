@@ -1,4 +1,4 @@
-# King County Real Market Insights (Washington)
+# King County Real Estate Market Insights (Washington)
 
 ## Overview
 Explore the dynamic housing market of King County, Washington, with our interactive Tableau dashboard. Conduct in-depth analyses of house sales, trends, and key indicators to gain valuable insights into the real estate landscape in the region. Gain a comprehensive understanding of house sales dynamics and property characteristics, empowering you to make informed decisions in the King County housing market.
